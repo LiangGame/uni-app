@@ -1,4 +1,4 @@
-# student.longlong.com
+# uni-app
 
 ## Project setup
 ```
